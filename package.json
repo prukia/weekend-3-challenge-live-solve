@@ -1,0 +1,32 @@
+{
+  "name": "upsilon_weekend3_live_solve",
+  "version": "1.0.0",
+  "description": "server side calculator live solve 1-23-2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjanaprime/upsilonWeekend3LiveSolve.git"
+  },
+  "keywords": [
+    "jquery",
+    "node",
+    "express",
+    "upsilon",
+    "prime",
+    "whatever"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devjanaprime/upsilonWeekend3LiveSolve/issues"
+  },
+  "homepage": "https://github.com/devjanaprime/upsilonWeekend3LiveSolve#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0"
+  }
+}
